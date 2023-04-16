@@ -1,13 +1,13 @@
 {
-  "name": "NASA Picture of the day viewer",
+  "name": "Web sites speed tester",
   "version": "0.0.0.1",
-  "manifest_version": 2,
-  "description": "A chromium extension to show NASA's Picture of the Day.",
+  "manifest_version": 3,
+  "description": "A speed test tester until the web site.",
   "icons": {
-    "16": "icons/nasapod16x16.png",
-    "32": "icons/nasapod32x32.png",
-    "48": "icons/nasapod48x48.png",
-    "128": "icons/nasapod128x128.png"
+    "16": "icons/speed.png",
+    "32": "icons/speed.png",
+    "48": "icons/speed.png",
+    "128": "icons/speed.png"
   },
   "browser_action": {
     "default_popup": "popup/popup.html"

@@ -25,5 +25,8 @@
           "resources": ["images/*.jpeg"],
           "matches": ["<all_urls>"]
       }
-  ]
+  ],
+  "permissions": [
+        "tabs"
+    ]
 }
